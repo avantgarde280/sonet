@@ -1,1 +1,14 @@
-
+ad_supported/bin
+ad_supported/gen
+ad_supported/.classpath
+ad_supported/.project
+core/bin
+core/gen
+core/src/com/shafiq/myfeedle/core/SonetTokens.java
+core/.classpath
+core/.project
+pro/bin
+pro/gen
+pro/.classpath
+pro/.project
+test

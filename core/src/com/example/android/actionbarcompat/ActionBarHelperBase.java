@@ -16,11 +16,6 @@
 
 package com.example.android.actionbarcompat;
 
-import org.xmlpull.v1.XmlPullParser;
-import org.xmlpull.v1.XmlPullParserException;
-
-import com.piusvelte.sonet.core.R;
-
 import android.app.Activity;
 import android.content.Context;
 import android.content.res.XmlResourceParser;
@@ -37,6 +32,11 @@ import android.widget.ImageView;
 import android.widget.LinearLayout;
 import android.widget.ProgressBar;
 import android.widget.TextView;
+
+import com.shafiq.myfeedle.core.R;
+
+import org.xmlpull.v1.XmlPullParser;
+import org.xmlpull.v1.XmlPullParserException;
 
 import java.io.IOException;
 import java.util.HashSet;
